@@ -1,3 +1,5 @@
+# Time -> 1 min 34 s
+
 class Solution:
     def maximumCount(self, nums: List[int]) -> int:
         pos = neg = 0
